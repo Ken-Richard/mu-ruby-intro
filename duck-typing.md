@@ -1,4 +1,4 @@
-###### DUCK TYPING
+# DUCK TYPING
 
 <pre>
 list = [dog, cat, Human.new]

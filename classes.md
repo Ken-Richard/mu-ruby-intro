@@ -20,3 +20,5 @@ cat = Cat.new
 dog.sound
 cat.sound
 </pre>
+
+[Next - Method Missing](https://github.com/Ken-Richard/mu-ruby-intro/blob/master/method-missing.md)

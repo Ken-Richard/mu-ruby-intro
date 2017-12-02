@@ -9,11 +9,17 @@
 * Install Ruby & Atom Editor
 * irb - Interactive Ruby
 * simple operations
+* variables
+* a=1; b=2; a,b = b,a
+* functions
 * List of data
 * Hash of data
 * Iterators
 
 ## Web Server & Client
+
+* [Web Server](https://github.com/Ken-Richard/mu-ruby-intro/tree/master/web-server/server)
+* [Web Client](https://github.com/Ken-Richard/mu-ruby-intro/tree/master/web-client/client)
 
 ## Other Resources
 
